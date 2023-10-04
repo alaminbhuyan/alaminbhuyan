@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/alaminbhuyan13" target="blank"><img src="https://img.shields.io/twitter/follow/alaminbhuyan13?logo=twitter&style=for-the-badge" alt="alaminbhuyan13" /></a> </p>
 
-<img align="right" alt="Coding" width="200" height="200" src="https://github.com/alaminbhuyan/githubProfileImages/blob/master/coding2.gif?raw=true">
+<img align="right" alt="Coding" width="300" height="250" src="https://github.com/alaminbhuyan/githubProfileImages/blob/master/coding2.gif?raw=true">
 
 
 - 🌱 I’m currently learning **Deep Learning | Tensor-flow**
